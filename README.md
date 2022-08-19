@@ -110,3 +110,7 @@ Copy and run in local - PHP language
 
 ?>
 ```
+
+#Expectation Display
+
+![alt text](https://i.pinimg.com/originals/fc/ca/98/fcca980ea45446719dff252418f05110.jpg)
